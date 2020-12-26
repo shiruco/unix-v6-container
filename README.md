@@ -17,7 +17,8 @@ docker run -it unix_v6
 docker exec -i -t ${CONTAINER ID} bash 
 ```
 
-input `unix` after @ and login as root
+input `unix` after @ and login as root  
+
 ![screen image](https://github.com/shiruco/unix-v6-emulator/blob/main/screen.png)  
 
 # logout
