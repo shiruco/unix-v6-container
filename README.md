@@ -18,7 +18,7 @@ docker exec -i -t ${CONTAINER ID} bash
 ```
 
 input `unix` after @ and login as root
-
+![screen image](https://github.com/shiruco/unix-v6-emulator/blob/main/screen.png)  
 
 # logout
 input `sync` command three times and [ctrl-e]
