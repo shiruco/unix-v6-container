@@ -1,4 +1,4 @@
-# unix-v6-emulator
+# unix-v6-container
 
 #### PDP-11 simulator V3.8-1 on Docker container
 
