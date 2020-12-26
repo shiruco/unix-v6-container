@@ -22,13 +22,13 @@ input `unix` after @ and login as root
 ![screen image](https://github.com/shiruco/unix-v6-emulator/blob/main/screen.png)  
 
 # logout
-input `sync` command three times and [ctrl-e]
+input `sync` command three times and [ctrl + e]
 
 ```
 # sync
 # sync
 # sync
-# [ctrl-e]
+# [ctrl + e]
 ```
 
 so, we back to simh console, input `quit` or `q`.
